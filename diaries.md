@@ -15,3 +15,31 @@ Packages needed to start the journey
 
  ```sudo apt install g++ cmake build-essential```
 
+
+
+*********
+
+I think the easiest way to start the journey is to create a simple TCP server that accepts client connections, with a C++ client that connects and sends messages. Let's first start by explaining wtf is a TCP server:
+
+
+-  A TCP server is a program that listens for incoming connections from clients over the TCP protocol and exchanges data with them.
+
+- TCP (Transmission Control Protocol) is a connection-oriented protocol. It ensures that data sent between a client and server is:
+    - Delivered in order
+    - Not lost or duplicated
+    - Verified with checksums
+
+- How a TCP server works:
+    - Bind to an IP address and port.
+    - Listen for incoming client connections.
+    - Accept a client connection, which creates a dedicated channel for communication.
+    - Send and receive data over that connection.
+    - Close the connection when done.
+
+- Example use cases:
+    - Web servers (HTTP over TCP)
+    - Chat servers
+    - File transfer servers
+    - Game servers
+
+In short, a TCP server is the “host” that waits for clients to connect and reliably exchanges information with them.
