@@ -1,6 +1,6 @@
 ## 04/12/2025
 
-My name is Luis, I studied Electronic and Automatic Industrial Engineering and I'm currently working as a softaware engineer. About to turn 30 in like 4 days.
+My name is Luis, I studied Electronic and Automatic Industrial Engineering and I'm currently working as a software engineer. About to turn 30 in like 4 days.
 
  Feels weird, in one hand, super happy, because I've reached a level of life and job balance that 90% of people would wanna have, and I have plenty of time to do my stuff. In the other hand, I feel like I could do something better, something more, but FE + BE + Infra is not gonna give me that.
 
