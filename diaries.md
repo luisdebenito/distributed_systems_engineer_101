@@ -13,7 +13,7 @@ BTW: I'm writing this in a .md file, edited  using VSCodium in my Debian 13 OS r
 
 Packages needed to start the journey
 
- ```sudo apt install g++ cmake build-essential```
+ ```sudo apt install clang```
 
 
 
